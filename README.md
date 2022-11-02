@@ -1,4 +1,4 @@
-# [SEDAR XX](https://sedarweb.org/) __Region__ *Species* Assessment Type
+# [SEDAR XX](https://sedarweb.org/) __SA__ *Species* Assessment Type
 This repository is for NMFS SEFSC SEDAR Assessment Coordination.  The project boards contain internal discussions and documentation of decisions.  
 
 # [Stock Structure and Assessment Details](https://sefsc.github.io/SEFSC-SEDAR-Template/) 
