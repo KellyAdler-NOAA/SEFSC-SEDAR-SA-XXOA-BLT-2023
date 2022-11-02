@@ -1,6 +1,8 @@
 # [SEDAR XX](https://sedarweb.org/) __South Altantic__ Blueline Tilefish Operational Assessment
 Speices: Blueline Tilefish (*Caulolatilus microps*; ITIS=168543)
 
+[BLT](https://raw.githubusercontent.com/KellyAdler-NOAA/SEFSC-SEDAR-SA-XXOA-BLT-2023/main/docs/blueline-tilefish-noaa.webp)
+
 # [Stock Structure and Assessment Details](https://sefsc.github.io/SEFSC-SEDAR-Template/) 
 This page is **public-facing** and can be edited within the '*./docs/index.md*' file.  This page is used for disseminating information on assessment details including fleet structure, stock boundaries, gear aggregations, length bin size, and age/length plus groups.  All information needed to provide data for this assessment should be included here.
 
